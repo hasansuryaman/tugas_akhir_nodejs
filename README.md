@@ -1,6 +1,6 @@
 # Tugas Akhir NodeJS
 
-Membuat CRUD (Create Read Update Delete) pada API data Mahasiswa.
+Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
 API HOME :
 ![api-home](screen/api-home.png)
