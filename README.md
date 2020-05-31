@@ -2,25 +2,25 @@
 
 Membuat CRUD (Create Read Update Delete) Pada API Data Mahasiswa.
 
-API HOME :
+**API HOME :**
 ![api-home](screen/api-home.png)
 
-POST :
+**POST :**
 <br>
 <p align="center"><img src="screen/post.png" alt="" width="700"/></div></p>
 <br>
 
-GET :
+**GET :**
 <br>
 <p align="center"><img src="screen/get.png" alt="" width="700"/></div></p>
 <br>
 
-PUT :
+**PUT :**
 <br>
 <p align="center"><img src="screen/put.png" alt="" width="700"/></div></p>
 <br>
 
-DELETE :
+**DELETE :**
 <br>
 <p align="center"><img src="screen/delete.png" alt="" width="700"/></div></p>
 <br>
